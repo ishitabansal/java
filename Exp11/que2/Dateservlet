@@ -1,0 +1,17 @@
+package newpackage;
+
+import java.io.*;
+import javax.servlet.*;
+
+public class Dateservlet extends GenericServlet
+{
+     //implement service()
+     public void service(ServletRequest req, ServletResponse res) throws IOException, ServletException
+     {
+          res.setContentType("text/html");
+          PrintWriter obj1=res.getWriter();
+          java.util.Date date = new java.util.Date();
+          obj1.println("<h2>"+"Current Date & Time: " +date.toString()+"</h2>");
+          obj1.close();
+     }
+}
