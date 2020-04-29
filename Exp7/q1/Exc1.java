@@ -1,5 +1,6 @@
 import java.util.*;
- public class Exc1 {
+ public class Exc1 
+ {
   
            public static void main(String[] args)
              { 
@@ -25,5 +26,5 @@ import java.util.*;
                    }
                               
 }
-}
+ }
 
