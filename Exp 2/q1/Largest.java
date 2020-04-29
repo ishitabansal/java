@@ -1,7 +1,7 @@
 public class Largest
 {
- public static void main(String args[])
- {
+  public static void main(String args[])
+  {
   int a,b,c;
   a=Integer.parseInt(args[0]);
   b=Integer.parseInt(args[1]);
