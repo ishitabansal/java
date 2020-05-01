@@ -11,9 +11,7 @@ public class Upper
                  str +=""+ (char)(ch-32);
             else
                str +="" +ch;
-               
-
-           }
+            }
               System.out.println(str);
 }   
        //return str;
