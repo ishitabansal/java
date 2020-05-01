@@ -1,5 +1,6 @@
 public class Buffer
 {
+    
     public static String toUpperCase(StringBuffer s)
 {
     String str = "";
