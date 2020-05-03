@@ -1,0 +1,3 @@
+first we will compile file1 with command "javac -d . Myself.java"
+then we will compile file2 similarly
+the we will ruk Myself1(file2)
