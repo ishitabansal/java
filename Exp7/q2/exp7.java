@@ -11,7 +11,6 @@ public class exp7
   catch(ArithmeticException e)
   {
    System.out.println("error");
-   
   }
 }
 } 
