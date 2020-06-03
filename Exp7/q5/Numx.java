@@ -3,7 +3,7 @@ import java.util.*;
 class Numx
 {
 public static void main(String args[])
- {
+{
 String name;
 int age;
 System.out.println("-----ENTER EMPLOYEE DETAILS-----");
